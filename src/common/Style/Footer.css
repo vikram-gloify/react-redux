@@ -1,0 +1,9 @@
+@import './Color.css';
+
+footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: var(--bs-orange);
+  color: var(--bs-white);
+}
